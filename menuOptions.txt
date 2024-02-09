@@ -1,0 +1,13 @@
+The Films Menu options
+.
+1. Print details of all films
+
+2. Add a Film
+
+3. Update a Film
+
+4. Delete a Film
+
+5. search via filmID, title, yearReleased, rating, duration or genre
+
+6. Exit the program
